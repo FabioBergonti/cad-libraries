@@ -335,6 +335,7 @@ template_boardpart .\config\standard_files\start_part_ecad.prt
 modelcheck_dir .\config\modelcheck
 
 ! SimMechanics link
-!toolkit_registry_file .\config\matlab\creolink.dat
+toolkit_registry_file .\config\matlab\creolink.dat
 
 default_scene_filename .\config\render_scene\IIT_default_scene.scn
+pro_font_dir C:\Windows\Fonts
